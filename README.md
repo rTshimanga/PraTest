@@ -1,2 +1,2 @@
 # PraTest
-pratiquer sur github
+pratiquer sur github de sorte a maitriser le concept
